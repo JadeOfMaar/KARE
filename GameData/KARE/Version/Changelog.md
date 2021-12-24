@@ -1,10 +1,7 @@
-# Tea Kettle RCS
+# KARE
 
 ## 1.1.0
-* Fixed mod detection for fuel options.
-* Added 3-way options to "Brick" RCS thruster.
-* Allowed LiquidFuel option to persist with LqdHydrogen and other options.
-* Minor nerf to Isps.
+* Added FAR config. Fixes CoL problems when involving these Mk2 parts.
 
 ## 1.0.0
 * Initial release.
