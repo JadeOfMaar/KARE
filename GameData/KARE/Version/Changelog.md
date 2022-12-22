@@ -1,6 +1,6 @@
 # KARE
 
-## 1.1.0
+## 1.1.1
 * Added FAR config. Fixes CoL problems when involving these Mk2 parts.
 * Added missing IntakeAtm patch for intakes.
 * Added Waterfall configs.
