@@ -5,6 +5,7 @@
 * Added missing IntakeAtm patch for intakes.
 * Added Waterfall configs.
 * Fixed engineID values (changed from Dry & Wet to AirBreathing & ClosedCycle). Some mods, namely BDArmory, do trip over this.
+* Reduced engine heat production values.
 
 ## 1.0.0
 * Initial release.
