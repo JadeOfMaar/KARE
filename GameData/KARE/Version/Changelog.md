@@ -1,5 +1,9 @@
 # KARE
 
+## 1.1.2
+* Detect alternate Waterfall plume pack: RestockWaterfallExpansion.
+* Detect standalone DepthMask mod, not just Restock for DepthMask.
+
 ## 1.1.1
 * Added FAR config. Fixes CoL problems when involving these Mk2 parts.
 * Added missing IntakeAtm patch for intakes.
