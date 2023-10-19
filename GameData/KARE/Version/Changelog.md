@@ -1,5 +1,9 @@
 # KARE
 
+## 1.2.0
+* Added drag cube fix. Might be helpful.
+* Adjusted engine performance (traded closed cycle Isp for better atmo thrust; increased closed cycle thrust).
+
 ## 1.1.2
 * Detect alternate Waterfall plume pack: RestockWaterfallExpansion.
 * Detect standalone DepthMask mod, not just Restock for DepthMask.
