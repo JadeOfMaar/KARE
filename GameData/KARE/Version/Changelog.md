@@ -1,5 +1,14 @@
 # KARE
 
+## 1.3.0
+* Updated radial intakes:
+  * Added drag cube values of the wing boards; made them much less draggy.
+  * Added stack nodes to them for ease of placement and drag cube wizardry.
+* Adjusted engine performance again:
+  * Increased thrust for the Spatha, Gladius and Baselard (and not the Tory III).
+  * Extended velocity range and peak thrust multiplier of Tory III.
+  * Retracted velocity range and peak thrust multiplier of Gladius.
+
 ## 1.2.0
 * Added drag cube fix. Might be helpful.
 * Adjusted engine performance (traded closed cycle Isp for better atmo thrust; increased closed cycle thrust).
