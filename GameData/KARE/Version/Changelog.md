@@ -1,13 +1,13 @@
 # KARE
 
-## 1.3.0
-* Updated radial intakes:
-  * Added drag cube values of the wing boards; made them much less draggy.
-  * Added stack nodes to them for ease of placement and drag cube wizardry.
-* Adjusted engine performance again:
-  * Increased thrust for the Spatha, Gladius and Baselard (and not the Tory III).
-  * Extended velocity range and peak thrust multiplier of Tory III.
-  * Retracted velocity range and peak thrust multiplier of Gladius.
+## 2.0.0
+* Added stack nodes for the radial intakes to help with drag cube problems.
+* Changed drag cubes for radial intakes to resemble wing boards to help with drag cube problems.
+* Adjusted engine performance:
+  * Increased thrust in the Spatha, Gladius and Baselard.
+  * Slightly extended peak velocity in the Tory III.
+* Fixed DepthMask issues.
+* Retextured and Resurfaced. :star:
 
 ## 1.2.0
 * Added drag cube fix. Might be helpful.
