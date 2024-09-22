@@ -1,5 +1,8 @@
 # KARE
 
+## 2.1.0
+* Updated textures again. The shininess tuning was actually still very bad.
+
 ## 2.0.0
 * Added stack nodes for the radial intakes to help with drag cube problems.
 * Changed drag cubes for radial intakes to resemble wing boards to help with drag cube problems.
