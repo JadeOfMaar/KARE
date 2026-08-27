@@ -1,5 +1,8 @@
 # KARE
 
+## 2.1.1
+* Updated Waterfall config. Fixed missing detection for when another mod (namely Rational Resources Nuclear Family) changes the engineID value.
+
 ## 2.1.0
 * Updated textures again. The shininess tuning was actually still very bad.
 
